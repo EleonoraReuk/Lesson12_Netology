@@ -1,9 +1,9 @@
-/*#include <iostream>
+#include <iostream>
 #include <fstream>
 
 int main() {
     int size;
-    std::cout << "Ââåäèòå ðàçìåð ìàññèâà: ";
+    std::cout << "Ð’Ð²ÐµÐ´Ð¸Ñ‚Ðµ Ñ€Ð°Ð·Ð¼ÐµÑ€ Ð¼Ð°ÑÑÐ¸Ð²Ð°: ";
     std::cin >> size;
 
 
@@ -27,4 +27,3 @@ int main() {
 
     return 0;
 }
-*/
