@@ -1,4 +1,3 @@
-/*
 #include <iostream>
 #include <iomanip>
 #include <fstream>
@@ -26,4 +25,3 @@ int main()
     delete[] array;
     return 0;
 }
-*/
