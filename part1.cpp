@@ -1,4 +1,4 @@
-/*#include <iostream>
+#include <iostream>
 #include <iomanip>
 #include <fstream>
 #include <string>
@@ -12,4 +12,4 @@ int main()
 		std::cout << word << std::endl;
 	}
 	return 0;
-}*/
+}
