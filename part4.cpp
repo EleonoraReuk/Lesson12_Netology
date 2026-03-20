@@ -2,7 +2,7 @@
 #include <fstream>
 
 int main() {
-    std::ifstream inputFile("in2.txt");
+    std::ifstream inputFile("in.txt");
 
     int rows, cols;
     inputFile >> rows >> cols;
