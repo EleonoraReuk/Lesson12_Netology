@@ -7,9 +7,9 @@ int main()
 {
 	std::ifstream file("in.txt");
 	std::string word;
-	while (!(file >> word).eof())
+	while (file >> word)
 	{
-		std::cout << word << std::endl;
+	    std::cout << word << std::endl;
 	}
 	return 0;
 }
